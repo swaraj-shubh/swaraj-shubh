@@ -1,11 +1,17 @@
 <!-- PROFILE README.md -->
 # 👋 Hi, I'm Shubham Verma
 
-**Information Science Engineering @ DSCE** | **Competitive Programmer** | **Full-Stack & Blockchain Developer**
+ **Competitive Programmer** | **Full-Stack Developer**
 
-> Building real-world systems, solving hard problems, and turning ideas into scalable products.
+> Building real-world systems, solving hard problems and building solutions. 
+> I enjoy connecting with people, sharing ideas, and learning together — feel free to reach out anytime.
 
 ---
+
+## 🔗 Links
+
+[![Visit Portfolio](https://img.shields.io/badge/_Visit_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shubhamverma25.xyz)
+[![Download Resume](https://img.shields.io/badge/📄_Resume-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.shubhamverma25.xyz/resume)
 
 ## 🛠️ Tech Stack
 
@@ -43,72 +49,25 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
----
-
-## 🚀 Current Focus
-
-- 🧠 **DSA in Java** & Competitive Programming (Codeforces Specialist)
-- 🔗 **Building CarbonCred** - Blockchain-based Carbon Credit Trading Platform
-- 🏆 **Active Hackathon Participant** (24+ hour build sprints)
-- 📚 **Exploring DeFi & Smart Contract Security**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaraj-shubh)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj-shubh)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=swaraj-shubh)
-
-</div>
 
 ---
 
 ## 🏆 Competitive Programming
 
-<div align="center">
-
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-
-**Codeforces:** Expert (Max: 1678) | **LeetCode:** 450+ Problems  
-*Specialist in Dynamic Programming & Graph Algorithms*
-
-</div>
-
----
-
-## 📈 Activity Heatmap
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-verma&theme=react-dark&hide_border=true&area=true)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/swaraj0)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/swaraj0)
 
 ---
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-shubham.verma@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.verma@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham_Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-verma)
-[![Codeforces](https://img.shields.io/badge/Codeforces-shubham__verma-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shubham_verma)
-[![Twitter](https://img.shields.io/badge/Twitter-@shubham__v-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubham__v)
-
-</div>
-
----
-
-## 💡 What I Bring to the Table
-
-> **Execution under pressure** • **Architecture thinking** • **Clean, scalable code**  
-> From hackathon victories to production systems, I build with purpose.
-
-*"Given a problem, I build systems. Given a system, I optimize it. Given optimized code, I make it maintainable."*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhh.ab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-verma-a7804323a)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shubham70712329)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shubh_.am)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shubhhhham)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919263603180)
 
 ---
 
 ⭐ *From one developer to another: If you find my work useful, don't forget to star the repos!*
-
