@@ -58,11 +58,11 @@
 
 <div align="center">
   
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaraj-shubh&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaraj-shubh)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj-shubh&layout=compact&theme=radical&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj-shubh)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=swaraj-shubh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=swaraj-shubh)
 
 </div>
 
@@ -112,34 +112,3 @@
 
 ⭐ *From one developer to another: If you find my work useful, don't forget to star the repos!*
 
-## 📄 Professional Resume
-
-<div align="center">
-
-![Resume Preview](https://img.shields.io/badge/Resume-Updated_2025-blue?style=for-the-badge)
-![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Pages](https://img.shields.io/badge/2_Pages-8A2BE2?style=for-the-badge)
-
-</div>
-
-<div align="center" style="border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 30px 0;">
-
-### 🚀 View & Download My Resume
-
-[![Resume PDF](https://img.shields.io/badge/📄_View_Full_Resume-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.shubhamverma25.xyz/resume)
-[![Download PDF](https://img.shields.io/badge/⬇_Download_PDF-4CAF50?style=for-the-badge&logo=microsoftacademic&logoColor=white)](https://www.shubhamverma25.xyz/resume.pdf)
-
-*Updated: January 2025 | 2 Pages | ATS Optimized*
-
-</div>
-
----
-
-### 📋 Resume Highlights
-
-#### 🎓 **Education**
-```yaml
-Degree: Information Science Engineering
-Institute: Dayananda Sagar College of Engineering (DSCE)
-CGPA: 8.5/10.0
-Graduation: 2025
