@@ -1,61 +1,117 @@
-<!-- PROFILE README.md -->
+<!-- ========================= HEADER ========================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Shubham%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
 # 👋 Hi, I'm Shubham Verma
 
- **Competitive Programmer** | **Full-Stack Developer**
+### 🚀 Competitive Programmer • Full Stack Developer • Problem Solver
 
-> Building real-world systems, solving hard problems and building solutions. 
-> I enjoy connecting with people, sharing ideas, and learning together — feel free to reach out anytime.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software.;Hackathon+Enthusiast.;Competitive+Programmer.;Always+learning+something+new.;Let's+build+something+awesome!"/>
+
+<img src="https://komarev.com/ghpvc/?username=swaraj-shubh&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
-## 🔗 Links
+# 💫 About Me
+
+- 💻 Full Stack Developer passionate about building impactful products
+- 🏆 Competitive Programmer
+- 🚀 Hackathon Enthusiast
+- 🌱 Always learning new technologies
+- 🤝 Love collaborating on innovative ideas
+
+> Building real-world systems, solving hard problems and creating useful solutions.  
+> I enjoy connecting with people, sharing ideas, and learning together.
+
+---
+
+# 🔗 Links
 
 [![Visit Portfolio](https://img.shields.io/badge/_Visit_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shubhamverma25.xyz)
 [![Download Resume](https://img.shields.io/badge/📄_Resume-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.shubhamverma25.xyz/resume)
 
-## 🛠️ Tech Stack
 
-### **Languages & Platforms**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,vite,git,github,postman,vscode,npm,vercel,netlify&perline=7"/>
+
+</div>
+
+---
+
+# 🚀 Technologies
+
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Java • C • C++ • JavaScript • TypeScript • Python |
+| **Frontend** | React • Next.js • Vite • HTML • CSS • Tailwind CSS • ShadCN UI |
+| **Backend** | Node.js • Express |
+| **Database** | MongoDB • Firebase |
+| **Deployment** | Vercel • Netlify • Render |
+| **Tools** | Git • GitHub • VS Code • Postman • Cloudinary • NPM |
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-shubh&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 
-### **Web Development**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+# 🏆 Competitive Programming
 
-### **Tools & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/swaraj0)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/swaraj0)
 
 
 ---
 
-## 🏆 Competitive Programming
+# 📌 Featured Projects
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/swaraj0)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/swaraj0)
+| Project | Description |
+|----------|-------------|
+| 🚀 **Portfolio** | Personal portfolio showcasing projects and achievements |
+| 🍽 **Second Serve** | Food donation platform connecting restaurants and NGOs |
+| 🌿 **CarbonCred** | Carbon credit trading simulation platform |
+| 🛡 **MargRakshak** | Smart tourist safety monitoring system |
+| 🔐 **VAJRA** | Secure LLM Proxy against Prompt Injection |
+
+---
+
+# 📊 Profile Summary Cards
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swaraj-shubh&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-shubh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaraj-shubh&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swaraj-shubh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swaraj-shubh&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+# 🔥 GitHub Metrics
+
+<img src="https://metrics.lecoq.io/swaraj-shubh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&activity=1&lines=1&achievements=1"/>
 
 ---
 
@@ -68,6 +124,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shubhhhham)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919263603180)
 
+
 ---
 
-⭐ *From one developer to another: If you find my work useful, don't forget to star the repos!*
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
