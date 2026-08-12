@@ -70,18 +70,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 **Portfolio** | Personal portfolio showcasing projects and achievements |
-| 🍽 **Second Serve** | Food donation platform connecting restaurants and NGOs |
-| 🌿 **CarbonCred** | Carbon credit trading simulation platform |
-| 🛡 **MargRakshak** | Smart tourist safety monitoring system |
-| 🔐 **VAJRA** | Secure LLM Proxy against Prompt Injection |
-
----
-
 # 📊 Profile Summary Cards
 
 <p align="center">
