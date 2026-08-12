@@ -109,12 +109,6 @@
 
 ---
 
-# 🔥 GitHub Metrics
-
-<img src="https://metrics.lecoq.io/swaraj-shubh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&activity=1&lines=1&achievements=1"/>
-
----
-
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhh.ab@gmail.com)
