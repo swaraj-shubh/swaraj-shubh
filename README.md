@@ -37,13 +37,13 @@
 
 ---
 
-# 💻 Tech Stack
+<!-- # 💻 Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,vite,git,github,postman,vscode,npm,vercel,netlify&perline=7"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -57,7 +57,11 @@
 | **Database** | MongoDB • Firebase |
 | **Deployment** | Vercel • Netlify • Render |
 | **Tools** | Git • GitHub • VS Code • Postman • Cloudinary • NPM |
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,vite,git,github,postman,vscode,npm,vercel,netlify&perline=7"/>
+
+</div>
 ---
 
 
