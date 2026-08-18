@@ -5,15 +5,19 @@
 # 👋 Hi, I'm Shubham Verma
 <a href="https://github.com/swaraj-shubh">
   <kbd>
-    <img src="hehe2.gif" alt="Terminal ASCII Video" width="750">
+    <img src="https://res.cloudinary.com/dspavi1io/image/upload/v1787075704/wqrvdeiyykmsazs6kr2u.gif" alt="Terminal ASCII Video" width="750">
   </kbd>
 </a>
 
+<br><br>
 
+
+### 🚀 Competitive Programmer • Full Stack Developer • Problem Solver
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software.;Hackathon+Enthusiast.;Competitive+Programmer.;Always+learning+something+new.;Let's+build+something+awesome!"/>
 
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=swaraj-shubh&style=for-the-badge&color=blue" />
 
