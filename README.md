@@ -2,13 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Shubham%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
 # 👋 Hi, I'm Shubham Verma
+<a href="https://github.com/swaraj-shubh">
+  <kbd>
+    <img src="hehe2.gif" alt="Terminal ASCII Video" width="750">
+  </kbd>
+</a>
 
-### 🚀 Competitive Programmer • Full Stack Developer • Problem Solver
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software.;Hackathon+Enthusiast.;Competitive+Programmer.;Always+learning+something+new.;Let's+build+something+awesome!"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=swaraj-shubh&style=for-the-badge&color=blue" />
 
@@ -109,7 +114,5 @@
 ### ⭐ Thanks for visiting!
 
 If you like my work, consider ⭐ starring my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
