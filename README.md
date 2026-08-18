@@ -2,9 +2,11 @@
 ---
 <div align="center">
 
-# 👋 Hi, I'm Shubham Verma
+# 👋 Hi, I'm Shubham Verma 
 <!-- ![Terminal](hehe_small.gif) -->
-![Terminal](hehe2.gif)
+<!-- ![Terminal](hehe2.gif) -->
+<!-- # 👋 Hi ![Terminal](profile.gif) -->
+![Terminal](profile_large.gif)
 <!-- ![Terminal](compressed.gif) -->
 
 
