@@ -10,7 +10,7 @@
 </a>
 <a href="https://github.com/swaraj-shubh">
   <kbd>
-    <img src="./compressed.gif" alt="Terminal ASCII Video" width="750">
+    <img src="./hehe_small.gif" alt="Terminal ASCII Video" width="750">
   </kbd>
 </a>
 <a href="https://github.com/swaraj-shubh">
