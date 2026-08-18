@@ -3,6 +3,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Shubham Verma
+![Terminal](hehe_small.gif)
+![Terminal](hehe2.gif)
 <img src="https://res.cloudinary.com/dspavi1io/image/upload/v1776603586/tj1x8fxwubhas67x7tdm.png" alt="Terminal ASCII Video" width="750">
 
 <!-- <a href="https://github.com/swaraj-shubh">
@@ -20,6 +22,7 @@
     <img src="./assests/hehe2.gif" alt="Terminal ASCII Video" width="750">
   </kbd>
 </a> -->
+<img src="https://terminal-animation.vercel.app/">
 
 <br><br>
 
