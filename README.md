@@ -8,6 +8,16 @@
     <img src="https://res.cloudinary.com/dspavi1io/image/upload/v1787075704/wqrvdeiyykmsazs6kr2u.gif" alt="Terminal ASCII Video" width="750">
   </kbd>
 </a>
+<a href="https://github.com/swaraj-shubh">
+  <kbd>
+    <img src="./compressed.gif" alt="Terminal ASCII Video" width="750">
+  </kbd>
+</a>
+<a href="https://github.com/swaraj-shubh">
+  <kbd>
+    <img src="./assests/hehe2.gif" alt="Terminal ASCII Video" width="750">
+  </kbd>
+</a>
 
 <br><br>
 
