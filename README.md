@@ -47,8 +47,7 @@
 - 🌱 Always learning new technologies
 - 🤝 Love collaborating on innovative ideas
 
-> Building real-world systems, solving hard problems and creating useful solutions.  
-> I enjoy connecting with people, sharing ideas, and learning together.
+> just make it through whatever way it can be done.
 
 ---
 
@@ -58,7 +57,6 @@
 [![Download Resume](https://img.shields.io/badge/📄_Resume-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.shubhamverma25.xyz/resume)
 
 
----
 
 <!-- # 💻 Tech Stack
 
@@ -71,7 +69,7 @@
 ---
 
 # 🚀 Technologies
-
+<!-- 
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | Java • C • C++ • JavaScript • TypeScript • Python |
@@ -79,12 +77,13 @@
 | **Backend** | Node.js • Express |
 | **Database** | MongoDB • Firebase |
 | **Deployment** | Vercel • Netlify • Render |
-| **Tools** | Git • GitHub • VS Code • Postman • Cloudinary • NPM |
+| **Tools** | Git • GitHub • VS Code • Postman • Cloudinary • NPM | -->
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,vite,git,github,postman,vscode,npm,vercel,netlify&perline=7"/>
 
 </div>
+
 ---
 
 
@@ -108,14 +107,15 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-shubh&theme=tokyonight"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-shubh&theme=tokyonight"/> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swaraj-shubh&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaraj-shubh&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swaraj-shubh&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swaraj-shubh&theme=tokyonight&utcOffset=5.5"/>
-</p>
+</p> -->
 
 ---
 
