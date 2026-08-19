@@ -6,8 +6,7 @@
 <!-- ![Terminal](hehe_small.gif) -->
 <!-- ![Terminal](hehe2.gif) -->
 <!-- # 👋 Hi ![Terminal](profile.gif) -->
-![Terminal](profile_large.gif)
-<!-- ![Terminal](compressed.gif) -->
+[![Terminal](profile_large.gif)](https://terminal-animation.vercel.app/)<!-- ![Terminal](compressed.gif) -->
 
 
 <!-- <img src="https://res.cloudinary.com/dspavi1io/image/upload/v1776603586/tj1x8fxwubhas67x7tdm.png" alt="Terminal ASCII Video" width="750"> -->
@@ -94,6 +93,10 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/swaraj0)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/swaraj0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/swaraj0_/)
+<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/swaraj0) -->
+<!-- [![AtCoder](https://img.shields.io/badge/AtCoder-FF0000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/swaraj0) -->
+<!-- [![Kick Start](https://img.shields.io/badge/Kick_Start-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://codingcompetitions.withgoogle.com/kickstart/results/00000000008f4332) -->
 
 
 ---
