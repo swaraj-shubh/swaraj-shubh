@@ -103,13 +103,13 @@
 # 📊 Profile Summary Cards
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swaraj-shubh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swaraj-shubh&theme=dark&animation=sequence&duration=5"/>
 </p>
 
 <p align="center">
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-shubh&theme=tokyonight"/> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swaraj-shubh&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaraj-shubh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swaraj-shubh&theme=dark&animation=sequence&duration=5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaraj-shubh&theme=dark&animation=sequence&duration=5"/>
 </p>
 
 <!-- <p align="center">
